@@ -14,5 +14,6 @@ Estudando e me aprimorando a cada dia mais!👨🏻‍💻
 
 <p>
   <a href="https://www.instagram.com/pedrocpires_"></a>
-  <img align="left" alt="icone do instagram" width="22px" src="<a href="https://iconscout.com/icons/instagram" class="text-underline font-size-sm" target="_blank">Instagram</a> by <a href="https://iconscout.com/contributors/daniel-bruce" class="text-underline font-size-sm" target="_blank">Daniel Bruce</a>">
+  <img align="left" alt="icone do instagram" width="22px" src=![instagram (1)](https://github.com/pedropires19/pedropires19/assets/159832622/bc8a356d-40e1-4435-948b-536c3603da35)
+"">
 </p>
